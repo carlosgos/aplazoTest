@@ -11,7 +11,7 @@
 	<groupId>com.aplazo</groupId>
 	<artifactId>aplazoTest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>aplazoTest</name>
 	<description>Test aplazo</description>
 	<properties>
